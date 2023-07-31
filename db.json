@@ -1,0 +1,190 @@
+{
+  "users": [
+    {
+      "name": "Василий",
+      "surname": "Пупкин",
+      "lastName": "Васильевич",
+      "contacts": [
+        {
+          "type": "Facebook",
+          "value": "https://facebook.com/vasiliy-pupkin-the-best"
+        },
+        {
+          "type": "Email",
+          "value": "abc@xyz.com"
+        },
+        {
+          "type": "Телефон",
+          "value": "+7 (123) 456-78-23"
+        }
+      ],
+      "id": "1682533567475",
+      "updatedAt": "2023-07-04T05:19:58.366Z",
+      "createdAt": "2023-04-26T18:26:07.475Z"
+    },
+    {
+      "name": "Арсений",
+      "surname": "Куприянов",
+      "lastName": "Валерьевич",
+      "contacts": [
+        {
+          "type": "Телефон",
+          "value": "+7 (349) 234-23-43"
+        },
+        {
+          "type": "Vk",
+          "value": "kuprianov-vk.com"
+        },
+        {
+          "type": "Доп. телефон",
+          "value": "+7 (432) 387-87-34"
+        },
+        {
+          "type": "Email",
+          "value": "arsenii@adv.com"
+        },
+        {
+          "type": "Facebook",
+          "value": "kuprianov_arsenii"
+        },
+        {
+          "type": "Vk",
+          "value": "+7 (349) 234-23-43"
+        }
+      ],
+      "id": "1682533936141",
+      "updatedAt": "2023-05-21T15:56:47.071Z",
+      "createdAt": "2023-04-26T18:32:16.142Z"
+    },
+    {
+      "name": "Милли",
+      "surname": "Веданна",
+      "lastName": "",
+      "contacts": [
+        {
+          "type": "Телефон",
+          "value": "+7 (772) 913-48-17"
+        },
+        {
+          "type": "Email",
+          "value": "milli@mail.ru"
+        },
+        {
+          "type": "Vk",
+          "value": "+7 (772) 913-48-17"
+        },
+        {
+          "type": "Доп. телефон",
+          "value": "+7 (741) 047-03-24"
+        },
+        {
+          "type": "Facebook",
+          "value": "https://facebook.com/milli"
+        },
+        {
+          "type": "Vk",
+          "value": "vedanna"
+        },
+        {
+          "type": "Телефон",
+          "value": "+7 (343) 589-38-58"
+        }
+      ],
+      "id": "1682614845923",
+      "updatedAt": "2023-05-21T15:54:20.638Z",
+      "createdAt": "2023-04-27T17:00:45.923Z"
+    },
+    {
+      "name": "Денис",
+      "surname": "Скворцов",
+      "lastName": "Юрьевич",
+      "contacts": [
+        {
+          "type": "Vk",
+          "value": "vk.com/id11234"
+        },
+        {
+          "type": "Телефон",
+          "value": "+7 (321) 213-21-75"
+        },
+        {
+          "type": "Email",
+          "value": "sk@gmail.com"
+        }
+      ],
+      "id": "1684684181155",
+      "updatedAt": "2023-05-21T16:07:22.657Z",
+      "createdAt": "2023-05-21T15:49:41.155Z"
+    },
+    {
+      "name": "Татьяна",
+      "surname": "Александрова",
+      "lastName": "Павловна",
+      "contacts": [
+        {
+          "type": "Телефон",
+          "value": "+7 (345) 837-45-45"
+        },
+        {
+          "type": "Facebook",
+          "value": "https://facebook.com/tatyana"
+        },
+        {
+          "type": "Email",
+          "value": "abc@mail.ru"
+        },
+        {
+          "type": "Телефон",
+          "value": "+7 (345) 837-45-45"
+        },
+        {
+          "type": "Facebook",
+          "value": "https://facebook.com/tatyana"
+        },
+        {
+          "type": "Email",
+          "value": "abc@mail.ru"
+        },
+        {
+          "type": "Телефон",
+          "value": "+7 (345) 837-45-45"
+        },
+        {
+          "type": "Facebook",
+          "value": "https://facebook.com/tatyana"
+        },
+        {
+          "type": "Email",
+          "value": "abc@mail.ru"
+        },
+        {
+          "type": "Телефон",
+          "value": "+7 (345) 837-45-45"
+        },
+        {
+          "type": "Facebook",
+          "value": "https://facebook.com/tatyana"
+        },
+        {
+          "type": "Email",
+          "value": "abc@mail.ru"
+        },
+        {
+          "type": "Телефон",
+          "value": "+7 (345) 837-45-45"
+        },
+        {
+          "type": "Facebook",
+          "value": "https://facebook.com/tatyana"
+        },
+        {
+          "type": "Email",
+          "value": "abc@mail.ru"
+        }
+      ],
+      "id": "1684684361119",
+      "updatedAt": "2023-07-12T10:10:46.415Z",
+      "createdAt": "2023-05-21T15:52:41.119Z"
+    }
+  ]
+}
